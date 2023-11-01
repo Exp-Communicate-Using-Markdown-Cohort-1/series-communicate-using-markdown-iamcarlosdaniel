@@ -9,6 +9,11 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
+```
+node --version
+```
+
+
 - [x] Tarea Uno
 - [x] Tarea Dos
 - [ ] Tarea Tres
